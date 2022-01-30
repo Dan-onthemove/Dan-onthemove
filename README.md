@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dan-onthemove
 - 👀 I’m interested in infoSec
-- 🌱 I’m currently learning Mint
+- 🌱 I’m currently learning Py
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dan.onthemove@protonmail.com 
 
